@@ -29,7 +29,8 @@ public class CmpDetails {
 		Object b = l.get(5);
 		System.out.println(b);
 		
-		System.out.println("New command");
+		System.out.println("New commands");
+		
 		
 	}
 	
