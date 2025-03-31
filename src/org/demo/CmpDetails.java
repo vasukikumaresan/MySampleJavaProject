@@ -5,7 +5,7 @@ import java.util.List;
 
 public class CmpDetails {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		
 		
 		//Interface refname= new ClassName();
@@ -29,6 +29,7 @@ public class CmpDetails {
 		Object b = l.get(5);
 		System.out.println(b);
 		
+		System.out.println("New command");
 		
 	}
 	
