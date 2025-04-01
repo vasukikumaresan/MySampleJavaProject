@@ -30,6 +30,7 @@ public class CmpDetails {
 		System.out.println(b);
 		
 		System.out.println("New commandss");
+		System.out.println("my next command");
 		
 		
 	}
