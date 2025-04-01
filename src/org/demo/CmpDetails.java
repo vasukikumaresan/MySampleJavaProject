@@ -31,6 +31,7 @@ public class CmpDetails {
 		
 		System.out.println("New commandss");
 		System.out.println("my next command");
+		System.out.println("completed");
 		
 		
 	}
