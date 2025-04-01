@@ -34,7 +34,7 @@ public class CmpDetails {
 		System.out.println("completed");
 		System.out.println("we need push code in sub branch");
 		System.out.println("updated");
-		
+		System.out.println("Thiru's push");
 	}
 	
 	
